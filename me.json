@@ -1,0 +1,13 @@
+{
+  "name": "Divyansh",
+  "age": 17,
+  "skills": [
+    "Python",
+    "Git",
+    "VS Code"
+  ],
+  "address": {
+    "city": "Mumbai",
+    "country": "India"
+  }
+}
